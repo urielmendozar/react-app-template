@@ -1,7 +1,7 @@
 {
   "vendor": "kueskipaypartnermx",
   "name": "kueskiexpresscheckout",
-  "version": "0.0.0",
+  "version": "0.0.1-beta.0",
   "title": "Kueski Pay Express Checkout",
   "description": "First Version of Express Checkout",
   "builders": {
