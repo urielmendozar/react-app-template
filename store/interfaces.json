@@ -1,0 +1,5 @@
+{
+    "kueski-echeckout": {
+      "component": "ExpressCheckout"
+    }
+}
